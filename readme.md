@@ -53,6 +53,7 @@ As a result of implementing Ansible they are better equipped to manage their env
 ✔ Baselining our standard AMI’s went from 1 hour of manual configuration to becoming an invisible background process </br>
 ✔ Application Stacks went from 1–2 hours to set up, to about 10 minutes per stack </br>
 
+</br>
 > ***“ As a result of implementing Ansible we are better equipped to manage our environment. Ansible has allowed us to provide better operations and security to our clients. It has also increased our efficiency as a team.” — Jonathan Davila DevOps Lead, InfoZen (InfoZen is the prime contractor for NASA which used ansible)***
 
 ### ***Conclusion***
