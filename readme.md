@@ -18,12 +18,11 @@ Ansible is an open-source automation tool, or platform, used for IT tasks such a
 ## ***Let’s look at some of the reasons for Ansible’s popularity.***
 
 ### ***Advantages of Ansible***
-♦ ***Free:*** Ansible is an open-source tool.
-Very simple to set up and use: No special coding skills are necessary to use Ansible’s playbooks (more on playbooks later).
-♦ ***Powerful:*** Ansible lets you model even highly complex IT workflows.
-♦ ***Flexible:*** You can orchestrate the entire application environment no matter where it’s deployed. You can also customize it based on your needs.
-♦ ***Agentless:*** You don’t need to install any other software or firewall ports on the client systems you want to automate. You also don’t have to set up a separate management structure.
-♦ ***Efficient:*** Because you don’t need to install any extra software, there’s more room for application resources on your server.
+♦ ***Free:*** Ansible is an open-source tool. Very simple to set up and use: No special coding skills are necessary to use Ansible’s playbooks (more on playbooks later). </br>
+♦ ***Powerful:*** Ansible lets you model even highly complex IT workflows. </br>
+♦ ***Flexible:*** You can orchestrate the entire application environment no matter where it’s deployed. You can also customize it based on your needs. </br>
+♦ ***Agentless:*** You don’t need to install any other software or firewall ports on the client systems you want to automate. You also don’t have to set up a separate management structure. </br>
+♦ ***Efficient:*** Because you don’t need to install any extra software, there’s more room for application resources on your server. </br>
 
 <p align="center">
 <img src="pictures/3.gif">
@@ -47,12 +46,12 @@ In order to achieve better management as well as dealing with a diverse environm
 
 As a result of implementing Ansible they are better equipped to manage their environment. Ansible has allowed them to provide better operations and security to their clients.
 
-✔ www.nasa.gov update window went from over 1 hour, to 5 minutes or less
-✔ Patching updates went from a multi-day process to a 45 minute process
-✔ Near real-time RAM and Disk monitoring accomplished without agents
-✔ OS Account provisioning across entire environment in less than 10 minutes
-✔ Baselining our standard AMI’s went from 1 hour of manual configuration to becoming an invisible background process
-✔ Application Stacks went from 1–2 hours to set up, to about 10 minutes per stack
+✔ www.nasa.gov update window went from over 1 hour, to 5 minutes or less </br>
+✔ Patching updates went from a multi-day process to a 45 minute process </br>
+✔ Near real-time RAM and Disk monitoring accomplished without agents </br>
+✔ OS Account provisioning across entire environment in less than 10 minutes </br>
+✔ Baselining our standard AMI’s went from 1 hour of manual configuration to becoming an invisible background process </br>
+✔ Application Stacks went from 1–2 hours to set up, to about 10 minutes per stack </br>
 
 > ***“ As a result of implementing Ansible we are better equipped to manage our environment. Ansible has allowed us to provide better operations and security to our clients. It has also increased our efficiency as a team.” — Jonathan Davila DevOps Lead, InfoZen (InfoZen is the prime contractor for NASA which used ansible)***
 
@@ -60,9 +59,9 @@ As a result of implementing Ansible they are better equipped to manage their env
 Similarly there are many such organizations and business which ansible have supported.
 
 ### ***References***
-1. https://www.ansible.com/blog/nasa-automation
-2. https://www.ansible.com/use-cases
-3. https://www.ansible.com/resources/case-studies
+1. https://www.ansible.com/blog/nasa-automation </br>
+2. https://www.ansible.com/use-cases </br>
+3. https://www.ansible.com/resources/case-studies </br>
 
 ## ***Thank You For Reading ……***
 ### ***Feel Free to Drop any kind of suggestions and queries they are always welcome : [Here](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)***😊
