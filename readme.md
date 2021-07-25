@@ -54,6 +54,7 @@ As a result of implementing Ansible they are better equipped to manage their env
 ✔ Application Stacks went from 1–2 hours to set up, to about 10 minutes per stack </br>
 
 </br>
+
 > ***“ As a result of implementing Ansible we are better equipped to manage our environment. Ansible has allowed us to provide better operations and security to our clients. It has also increased our efficiency as a team.” — Jonathan Davila DevOps Lead, InfoZen (InfoZen is the prime contractor for NASA which used ansible)***
 
 ### ***Conclusion***
@@ -65,4 +66,4 @@ Similarly there are many such organizations and business which ansible have supp
 3. https://www.ansible.com/resources/case-studies </br>
 
 ## ***Thank You For Reading ……***
-### ***Feel Free to Drop any kind of suggestions and queries they are always welcome : [Here](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)***😊
+### ***Feel Free to Drop any kind of suggestions and queries they are always welcome*** : [Here](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)😊
